@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "b0uAmKVACyJcN+g61M3lmzfmoYE6OTsbQT0HBxeuYjA=",
+  "Source": "LH PETS",
+  "BasePath": "_content/LH PETS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LH PETS\\wwwroot",
+      "Source": "LH PETS",
+      "ContentRoot": "C:\\Users\\William Rodrigues\\Documents\\LH PETS\\wwwroot\\",
+      "BasePath": "_content/LH PETS",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\William Rodrigues\\Documents\\LH PETS\\obj\\Debug\\net9.0\\compressed\\sf15tjtdsb-2o00duc2ih.gz",
+      "SourceId": "LH PETS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\William Rodrigues\\Documents\\LH PETS\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/LH PETS",
+      "RelativePath": "index#[.{fingerprint=2o00duc2ih}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\William Rodrigues\\Documents\\LH PETS\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "npx02pcrl8",
+      "Integrity": "q3BoUn/iXsEVbLz1sQNzgyx7hEm6Gqs2p/1VcuNPg4E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\William Rodrigues\\Documents\\LH PETS\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\William Rodrigues\\Documents\\LH PETS\\wwwroot\\index.html",
+      "SourceId": "LH PETS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\William Rodrigues\\Documents\\LH PETS\\wwwroot\\",
+      "BasePath": "_content/LH PETS",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2o00duc2ih",
+      "Integrity": "nlf8wBeAD2yMXsnafcPlNHjUaahQBQOf01gkS9sr3MA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.2o00duc2ih.html",
+      "AssetFile": "C:\\Users\\William Rodrigues\\Documents\\LH PETS\\obj\\Debug\\net9.0\\compressed\\sf15tjtdsb-2o00duc2ih.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002079002079"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "480"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q3BoUn/iXsEVbLz1sQNzgyx7hEm6Gqs2p/1VcuNPg4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 16:37:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nlf8wBeAD2yMXsnafcPlNHjUaahQBQOf01gkS9sr3MA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2o00duc2ih"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nlf8wBeAD2yMXsnafcPlNHjUaahQBQOf01gkS9sr3MA="
+        }
+      ]
+    },
+    {
+      "Route": "index.2o00duc2ih.html",
+      "AssetFile": "C:\\Users\\William Rodrigues\\Documents\\LH PETS\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nlf8wBeAD2yMXsnafcPlNHjUaahQBQOf01gkS9sr3MA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 16:37:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2o00duc2ih"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nlf8wBeAD2yMXsnafcPlNHjUaahQBQOf01gkS9sr3MA="
+        }
+      ]
+    },
+    {
+      "Route": "index.2o00duc2ih.html.gz",
+      "AssetFile": "C:\\Users\\William Rodrigues\\Documents\\LH PETS\\obj\\Debug\\net9.0\\compressed\\sf15tjtdsb-2o00duc2ih.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q3BoUn/iXsEVbLz1sQNzgyx7hEm6Gqs2p/1VcuNPg4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 16:37:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2o00duc2ih"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q3BoUn/iXsEVbLz1sQNzgyx7hEm6Gqs2p/1VcuNPg4E="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\William Rodrigues\\Documents\\LH PETS\\obj\\Debug\\net9.0\\compressed\\sf15tjtdsb-2o00duc2ih.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002079002079"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "480"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q3BoUn/iXsEVbLz1sQNzgyx7hEm6Gqs2p/1VcuNPg4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 16:37:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nlf8wBeAD2yMXsnafcPlNHjUaahQBQOf01gkS9sr3MA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nlf8wBeAD2yMXsnafcPlNHjUaahQBQOf01gkS9sr3MA="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\William Rodrigues\\Documents\\LH PETS\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nlf8wBeAD2yMXsnafcPlNHjUaahQBQOf01gkS9sr3MA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 16:37:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nlf8wBeAD2yMXsnafcPlNHjUaahQBQOf01gkS9sr3MA="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\William Rodrigues\\Documents\\LH PETS\\obj\\Debug\\net9.0\\compressed\\sf15tjtdsb-2o00duc2ih.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q3BoUn/iXsEVbLz1sQNzgyx7hEm6Gqs2p/1VcuNPg4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 16:37:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q3BoUn/iXsEVbLz1sQNzgyx7hEm6Gqs2p/1VcuNPg4E="
+        }
+      ]
+    }
+  ]
+}

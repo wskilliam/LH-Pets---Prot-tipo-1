@@ -1,0 +1,68 @@
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\bin\Debug\net9.0\appsettings.json
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\bin\Debug\net9.0\LH PETS.staticwebassets.endpoints.json
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\bin\Debug\net9.0\LH PETS.exe
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\bin\Debug\net9.0\LH PETS.deps.json
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\bin\Debug\net9.0\LH PETS.runtimeconfig.json
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\bin\Debug\net9.0\LH PETS.dll
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\bin\Debug\net9.0\LH PETS.pdb
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\obj\Debug\net9.0\LH PETS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\obj\Debug\net9.0\LH PETS.AssemblyInfoInputs.cache
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\obj\Debug\net9.0\LH PETS.AssemblyInfo.cs
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\obj\Debug\net9.0\LH PETS.csproj.CoreCompileInputs.cache
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\obj\Debug\net9.0\LH PETS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\obj\Debug\net9.0\scopedcss\bundle\LH PETS.styles.css
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\obj\Debug\net9.0\staticwebassets\msbuild.LH PETS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\obj\Debug\net9.0\staticwebassets\msbuild.LH PETS.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\obj\Debug\net9.0\staticwebassets\msbuild.build.LH PETS.props
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.LH PETS.props
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.LH PETS.props
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\obj\Debug\net9.0\LH PETS.dll
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\obj\Debug\net9.0\refint\LH PETS.dll
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\obj\Debug\net9.0\LH PETS.pdb
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\obj\Debug\net9.0\LH PETS.genruntimeconfig.cache
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\obj\Debug\net9.0\ref\LH PETS.dll
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\bin\Debug\net9.0\LH PETS.staticwebassets.runtime.json
+C:\Users\william.rodrigues\Desktop\PROJETO\backend\LH PETS\obj\Debug\net9.0\compressed\sf15tjtdsb-ahdc8fo242.gz
+C:\Users\William Rodrigues\Documents\LH PETS\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\William Rodrigues\Documents\LH PETS\bin\Debug\net9.0\appsettings.json
+C:\Users\William Rodrigues\Documents\LH PETS\bin\Debug\net9.0\LH PETS.staticwebassets.endpoints.json
+C:\Users\William Rodrigues\Documents\LH PETS\bin\Debug\net9.0\LH PETS.staticwebassets.runtime.json
+C:\Users\William Rodrigues\Documents\LH PETS\bin\Debug\net9.0\LH PETS.exe
+C:\Users\William Rodrigues\Documents\LH PETS\bin\Debug\net9.0\LH PETS.deps.json
+C:\Users\William Rodrigues\Documents\LH PETS\bin\Debug\net9.0\LH PETS.runtimeconfig.json
+C:\Users\William Rodrigues\Documents\LH PETS\bin\Debug\net9.0\LH PETS.dll
+C:\Users\William Rodrigues\Documents\LH PETS\bin\Debug\net9.0\LH PETS.pdb
+C:\Users\William Rodrigues\Documents\LH PETS\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\Users\William Rodrigues\Documents\LH PETS\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\Users\William Rodrigues\Documents\LH PETS\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\Users\William Rodrigues\Documents\LH PETS\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\Users\William Rodrigues\Documents\LH PETS\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\William Rodrigues\Documents\LH PETS\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\LH PETS.csproj.AssemblyReference.cache
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\LH PETS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\LH PETS.AssemblyInfoInputs.cache
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\LH PETS.AssemblyInfo.cs
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\LH PETS.csproj.CoreCompileInputs.cache
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\LH PETS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\scopedcss\bundle\LH PETS.styles.css
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\staticwebassets\msbuild.LH PETS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\staticwebassets\msbuild.LH PETS.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\staticwebassets\msbuild.build.LH PETS.props
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.LH PETS.props
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.LH PETS.props
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\LH PETS.csproj.Up2Date
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\LH PETS.dll
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\refint\LH PETS.dll
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\LH PETS.pdb
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\LH PETS.genruntimeconfig.cache
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\ref\LH PETS.dll
+C:\Users\William Rodrigues\Documents\LH PETS\obj\Debug\net9.0\compressed\sf15tjtdsb-2o00duc2ih.gz
